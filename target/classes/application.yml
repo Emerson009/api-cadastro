@@ -1,0 +1,14 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    url: jdbc:mysql://localhost/registros?useTimezone=true&serverTimezone=UTC
+    password: EticumSans17@#$
+  jpa:
+    hibernate:
+      ddl-auto: update
+

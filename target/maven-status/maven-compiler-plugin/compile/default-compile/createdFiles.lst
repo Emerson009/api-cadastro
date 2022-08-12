@@ -1,0 +1,11 @@
+br\com\cruzvita\cadastroapi\config\SwaggerConfig.class
+br\com\cruzvita\cadastroapi\constants\Status.class
+br\com\cruzvita\cadastroapi\entity\Pessoa.class
+br\com\cruzvita\cadastroapi\CadastroApiApplication.class
+br\com\cruzvita\cadastroapi\controller\CadastroController.class
+br\com\cruzvita\cadastroapi\repository\PessoaRepository.class
+br\com\cruzvita\cadastroapi\service\CadastroService.class
+br\com\cruzvita\cadastroapi\config\ModelMapperConfig.class
+br\com\cruzvita\cadastroapi\dto\CadastroDTO.class
+br\com\cruzvita\cadastroapi\controller\impl\CadastroControllerImpl.class
+br\com\cruzvita\cadastroapi\entity\TipoIdentificador.class
